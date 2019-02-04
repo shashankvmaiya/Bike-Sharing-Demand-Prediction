@@ -10,5 +10,6 @@ The key takeaway from the EDA and Modeling are
 	* Second on a Non-working day where rental count is more or less uniform across the day with a peak at around noon.
 
 Below figure shows the trend and our model predictions on the test set data. 
-<img width=800 height=500 src="./Images/results/pred_vs_actual_rf1.png"/>
+
+<img width=800 height=600 src="./Images/results/pred_vs_actual_rf1.png"/>
 
